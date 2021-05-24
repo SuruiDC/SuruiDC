@@ -1,4 +1,4 @@
-# Mi nombre es Surui
+# Surui
 
 ## Mis proyectos: 
 
