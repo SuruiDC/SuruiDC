@@ -1,9 +1,5 @@
 # Mi nombre es Surui
 
-<hr>
-<img src="https://i.imgur.com/WZQLB5q.png">
-<hr>
-
 ## Mis proyectos: 
 
 <hr>
