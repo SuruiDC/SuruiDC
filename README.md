@@ -2,7 +2,6 @@
 
 ## Mis proyectos: 
 
-<hr>
 
 ### Elaina Discord Bot:
 <p>
